@@ -2,8 +2,8 @@ Goal:
   - Be able to predict which teams are most likely to sustain late season success
   - Find an approximation per position of how many snaps increase the risk of injury
   - Pool snap counts with NFL experience and age for deeper analysis
-  - Assist with coaches' player rotations and sustained success
-  - Gather insights for players hisotrical wear and tear
+  - Assist with coaches' player rotations for sustained success
+  - Gather insights for players historical wear and tear
   - Manage player "loads" to give full roster playing experience and increase roster depth
 Process:
   - Gather snap count data for starting players by position
@@ -14,5 +14,10 @@ Process:
   - Use insights to see how many games a player will miss if x amount of snaps
   - Find a centerpoint for optimal amount of snaps played to reduce injury (per season, per game, per possesion)
   - Take results and predict which teams are most likely to retain most starters in a season, thus more wins
-
+Challenges:
+  - Injured snap count data
+  - Finding which players are starters
+Drawbacks:
+  - Injuries can be unpredictable, caused by other factors
+  - Some players are outliers
 
