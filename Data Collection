@@ -7,6 +7,6 @@
   - Left in Q2 = % of snaps played * total offensive snaps of that game * 0.5
   - Left in Q3 = % of snaps played * total offensive snaps of that game * 0.25
   - Left in Q4 = Do not consider since so late
-    - If able to find exact amount of snaps missed in that specific game use that in place of total offensive snaps of that game and quarter multiplier
+    - If able to find exact amount of snaps missed in that specific game use that in place of total offensive snaps of that game and quarter multiplier (Use PFF Immediate Takeaways Pages)
 6. Double check Week 18 to make sure it was not missed due to rest
 7. If a player returns to the game after injury, disregard calculation
