@@ -3,9 +3,9 @@
 3. Use DraftSharks injury data to find when players missed games
 4. Check the week they were injured, when they were injured during that game
 5. Use formula to calculate approximate of snaps missed based on quarter 
-  - Left in Q1 = % of snaps played * total offensive snaps of that game * 0.75
-  - Left in Q2 = % of snaps played * total offensive snaps of that game * 0.5
-  - Left in Q3 = % of snaps played * total offensive snaps of that game * 0.25
+  - Left in Q1 = average % of snaps played * total offensive snaps of that game * 0.75
+  - Left in Q2 = average % of snaps played * total offensive snaps of that game * 0.5
+  - Left in Q3 = average % of snaps played * total offensive snaps of that game * 0.25
   - Left in Q4 = Do not consider since so late
     - If able to find exact amount of snaps missed in that specific game use that in place of total offensive snaps of that game and quarter multiplier (Use PFF Immediate Takeaways Pages)
 6. Double check Week 18 to make sure it was not missed due to rest
