@@ -11,3 +11,4 @@
     - Player must have played all 100% of snaps before leaving for above condition to work, unless snaps missed is specifically specified
 6. Double check Week 18 to make sure it was not missed due to rest
 7. If a player returns to the game after injury, disregard calculation
+8. Double check any outlier low snap counts played
